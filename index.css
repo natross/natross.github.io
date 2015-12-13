@@ -1,0 +1,96 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    .container {
+  margin:auto;
+  background-image: url("http://www.myfreetextures.com/wp-content/uploads/2014/10/white-fur-texture.jpg");
+}
+    h1 {
+        text-align: center;
+    }
+    img {
+        width: 800px;
+    }
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+    }
+
+    header {
+        background-color: ;
+        padding: 0px;
+        font-size: ;
+        display: block;
+    }
+    nav {
+        float: left;
+        width: 800px;
+    }
+    nav ul {
+        padding: ;
+        float: center;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+        width: ;
+    }
+    nav li a {
+        display: block;
+        height: 50px;
+        padding: 0px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+        background-color: ;
+    }
+    section {
+        width: 100%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
+    
+nav ul li{
+    display: inline;
+}
+#content {
+    background-color: transparent;
+}
+div .nav2 li{
+    display:inline;
+}
+#content img{
+    width: 500px;
+    float: left;
+    margin-right:50px;
+}
+
+#content h4 {
+    clear:both;
+}
+article{
+    text-align: center;
+}
